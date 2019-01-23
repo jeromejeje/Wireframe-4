@@ -1,0 +1,17 @@
+.logo{
+	width: 40px;
+height: 40px;
+}
+
+.fond{
+	background-color: black;
+}
+
+.imMedia{
+	width: 580px;
+height: 580px;
+}
+
+body{
+	font-family: 'Righteous', cursive;
+}
